@@ -1,0 +1,6 @@
+{
+    "terminal.explorerKind": "external",
+    "terminal.integrated.allowMnemonics": true,
+    "terminal.integrated.confirmOnExit": "always",
+    "terminal.integrated.defaultProfile.linux": ""
+}
